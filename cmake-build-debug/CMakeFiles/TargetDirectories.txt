@@ -1,0 +1,3 @@
+/Users/o.goziyev/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/Assignment_2.dir
+/Users/o.goziyev/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/o.goziyev/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
